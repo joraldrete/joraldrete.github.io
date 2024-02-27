@@ -1,0 +1,59 @@
+/* Apply a subtle background color to the body */
+.body-class {
+    background-color: #c6f6f1;
+}
+
+
+.header-class {
+    background-color: #FFFAF0;
+    color: #f5f5f5; 
+    padding: 10px; 
+}
+
+/* Style the navigation bar */
+.nav-class {
+    background-color: #FFFAF0;
+    color: #6ef2c7; 
+    padding: 10px; 
+}
+
+/* Style the active link in the navigation bar */
+.nav-class a.active {
+    font-weight: bold;
+}
+
+
+.title-class, .section-title-class {
+    color: #007bff; 
+}
+
+
+.text-class {
+    color: #000080; 
+}
+
+/* Give images a border with a color that complements the overall design */
+.image-class {
+    border: 1px solid #cc99ff;
+    border-radius: 5px; /
+}
+
+
+.form-class input[type="text"],
+.form-class input[type="email"],
+.form-class input[type="submit"],
+.button-class {
+    background-color: #f8f9fa;
+    color: #87CEEB; 
+    border: 1px solid #cccccc; 
+    padding: 5px;
+    margin: 5px 0; 
+}
+
+/* Style the footer */
+.footer-class {
+    background-color: #d18af0;
+    color: #f5f5f5;
+    padding: 10px; 
+    text-align: center; 
+}
